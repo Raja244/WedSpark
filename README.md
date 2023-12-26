@@ -1,6 +1,6 @@
-# 💍 Wedding-Planner-System 💐
+# 💍 WedSpark 💐
 
-**Project Title:** Wedding Planner System
+**Project Title:** **WedSpark** The Wedding Planner System
 
 **Project Description:**
 The Wedding Planner System, crafted in Java using the NetBeans platform with a MySQL backend, is a collaborative endeavor by our dynamic team. With distinct modules for Admin, Event Manager, Catering Manager, and Customer, our system covers all aspects of wedding planning.
